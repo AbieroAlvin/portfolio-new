@@ -60,16 +60,16 @@ function ProjectSection() {
           img="./connect-four.png"
           title="An Interactive Offline Game with AI & Multiplayer"
           description="Connect Four is a classic strategy game where players take turns dropping colored discs into a grid with the goal of connecting four of their own discs in a row. It's a fun and challenging game suitable for players of all ages. Test your skills against our competitive AI, which strategically plays to win and blocks your moves, providing an engaging challenge for solo play."
-          url="https://toyan-connect-four.netlify.app/"
-          github="https://github.com/Olatoyan/connect-four-game"
+          url="https://connect-four-game-jet.vercel.app/"
+          github="https://github.com/AbieroAlvin/connect-four-game"
           techStack="React, Redux, Tailwind, Framer"
         />
         <ProjectBox
           img="./hangman.png"
           title="An Interactive and Engaging Hangman Challenge"
           description="The Hangman Game offers an entertaining way to test your knowledge across six diverse categories: movies, TV shows, animals, capital cities, countries, and sports. Challenge yourself with word-guessing fun and explore a variety of topics as you uncover hidden phrases and expand your vocabulary. With a total of 8 guesses, test your deduction skills and see if you can guess the phrase before the hangman is complete!"
-          url="https://toyan-hangman.netlify.app/"
-          github="https://github.com/Olatoyan/hangman-game"
+          url="https://hangman-game-omega-self.vercel.app/"
+          github="https://github.com/AbieroAlvin/hangman-game"
           techStack="React, TypeScript, Tailwind, Framer"
         />
       </div>
