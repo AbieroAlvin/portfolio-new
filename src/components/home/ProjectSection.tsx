@@ -28,32 +28,32 @@ function ProjectSection() {
           img="./kanban.png"
           title="An Interactive Kanban Board for Task Management"
           description="The Kanban app is a comprehensive full-stack project management tool that allows users to create, update, and manage boards and tasks. It features task completion tracking, column movements, sidebar toggling, and theme switching, providing a seamless and interactive user experience."
-          url="https://toyan-kanban.vercel.app/"
-          github="https://github.com/Olatoyan/kanban-task-management-web-app"
+          url="https://alvin-kanban-app.vercel.app/"
+          github="https://github.com/AlvinAbiero/kanban-task-management-app"
           techStack="Next.js, React, TypeScript, Tailwind, MongoDB"
         />
         <ProjectBox
           img="./devlinks.png"
           title="A Developer Link Management Platform"
           description="DevLinks is a web application that allows users to manage and share links effortlessly. With intuitive features such as link CRUD operations, drag-and-drop functionality, and real-time link previews, users can organize their links seamlessly. The application also enables users to set up their profiles, including profile pictures."
-          url="https://toyan-devlinks.vercel.app/"
-          github="https://github.com/Olatoyan/link-sharing-app"
+          url="https://alvin-devlinks.vercel.app/"
+          github="https://github.com/AlvinAbiero/link-sharing-app"
           techStack="React, TypeScript, Node, Express, MongoDB, Tailwind"
         />
         <ProjectBox
           img="./product-feedback.png"
           title="An Interactive Feedback Platform with User Chat"
           description="This app allows users to create, edit and delete a feedback and also engage with the community by commenting on feedback entries and also responding to existing comments and replies. And easily modify or delete comments and replies you've contributed."
-          url="https://toyan-product-feedback-app.vercel.app/"
-          github="https://github.com/Olatoyan/Product-feedback-app"
+          url="https://product-feedback-app-nu-nine.vercel.app/"
+          github="https://github.com/AlvinAbiero/product-feedback-app"
           techStack="React, TypeScript, Node, Express, MongoDB, Tailwind"
         />
         <ProjectBox
           img="./invoice-app.png"
           title="A User-Friendly Invoicing and Management System"
           description="This Invoice App project allows users to manage invoices seamlessly. Create, edit, and delete invoices with form validations. Enjoy features like saving drafts, marking invoices as paid, and filtering by status. The app also offers a sleek light/dark mode for a personalized experience."
-          url="https://toyan-invoice-app.netlify.app/"
-          github="https://github.com/Olatoyan/invoice-app"
+          url="https://invoice-app-six-ashen.vercel.app/"
+          github="https://github.com/AlvinAbiero/invoice-app"
           techStack="React, TypeScript, Supabase, Tailwind"
         />
         <ProjectBox
